@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: rgb(238, 194, 139);
+  background: radial-gradient(
+    circle,
+    rgba(238, 194, 139, 1) 14%,
+    rgba(170, 97, 7, 0.9332107843137255) 59%
+  );
+
+  color: #ffffffa6;
+  font-family: "Roboto", sans-serif;
+}
+
+input {
+  background: border-box;
+  color: white;
+  border-top: none;
+  width: 200px;
+  padding: 5px;
+  margin-top: 70px;
+}
+.firstTodo {
+  border: 1px solid #ffffffa6;
+  padding: 4px;
+  max-width: 200px;
+  text-align: left;
+  position: relative;
+  left: 582px;
+  margin-top: 20px;
+}
+.details {
+  text-align: center;
+}
